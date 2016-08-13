@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/15Dkatz/lynda-express#readme",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "cors": "^2.7.1",
     "express": "^4.14.0"
   }
